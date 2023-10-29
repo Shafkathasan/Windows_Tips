@@ -1,2 +1,2 @@
 cd /d %userprofile%\Desktop
-SHUTDOWN -r -t 10
+SHUTDOWN -r -t 5
